@@ -57,5 +57,5 @@
     "url": "git+https://github.com/robertfoss/atom_gedit_oblivion.git"
   },
   "theme": "syntax",
-  "version": "0.4.2"
+  "version": "0.5.0"
 }
