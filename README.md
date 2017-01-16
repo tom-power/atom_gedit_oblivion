@@ -7,7 +7,7 @@ A port of the Gedit theme Oblivion.
 
 # Thanks to
 
-This theme is based on the work of [jbrooksuk](https://github.com/jbrooksuk/atom-oblivion)
+This theme is based on the work of [jbrooksuk](https://github.com/jbrooksuk/atom-oblivion).
 
 
 # License
