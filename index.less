@@ -8,10 +8,12 @@
 }
 
 .editor.is-focused .selection .region {
+  color: #EEEEEE;
   background-color: #888888;
 }
 
 .editor.is-focused .line-number.cursor-line-no-selection, .editor.is-focused .line.cursor-line {
+  color: #EEEEEE;
   background-color: #888888;
 }
 
@@ -25,6 +27,13 @@ atom-text-editor::shadow .highlight.current-result ~ .highlight.selection .regio
   background: #888888; // to distinguish from the other results
   z-index: -100000;
   color: #EEEEEE;
+}
+
+.bracket-matcher {
+  border-bottom: 0px solid #BB642A;
+  position: absolute;
+  background: rgba(187, 100, 42, 0.8);
+  z-index: 999;
 }
 
 .comment {
