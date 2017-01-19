@@ -6,27 +6,28 @@
 .editor.is-focused .cursor {
   border-color: #CAD1C2;
 }
-
 .editor.is-focused .selection .region {
-  color: #EEEEEE;
-  background-color: #888888;
+  color: #CCCCCC;
+  background-color: #666666;
 }
 
+/*
 .editor.is-focused .line-number.cursor-line-no-selection, .editor.is-focused .line.cursor-line {
-  color: #EEEEEE;
-  background-color: #888888;
+  color: #CCCCCC;
+  background-color: #666666;
 }
+*/
 
 atom-text-editor::shadow .highlight.find-result .region {
   background: #4E9A06;
   z-index: -100000;
-  color: #EEEEEE;
+  color: #CCCCCC;
 }
 atom-text-editor::shadow .highlight.current-result .region,
 atom-text-editor::shadow .highlight.current-result ~ .highlight.selection .region {
   background: #888888; // to distinguish from the other results
   z-index: -100000;
-  color: #EEEEEE;
+  color: #CCCCCC;
 }
 
 .bracket-matcher {
