@@ -47,7 +47,7 @@
   },
   "homepage": "https://github.com/robertfoss/atom_gedit_oblivion/#readme",
   "license": "MIT",
-  "name": "gedit_oblivion",
+  "name": "gedit-oblivion",
   "optionalDependencies": {},
   "private": true,
   "readme": "# Gedit Oblivion theme\n\nA port of the Gedit theme Oblivion.\n\n![Gedit Oblivion Screenshot](https://github.com/robertfoss/atom_gedit_oblivion/raw/master/screenshot/atom_gedit_oblivion.png)\n\n\n# Thanks to\n\nThis theme is based on the work of [jbrooksuk](https://github.com/jbrooksuk/atom-oblivion)\n\n\n# License\n\n[MIT](https://opensource.org/licenses/MIT)",
